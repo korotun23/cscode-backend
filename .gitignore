@@ -1,0 +1,5 @@
+# Ignore upoads content
+uploads/*.csv
+
+# Ignore barcode previews
+previews/*.png
