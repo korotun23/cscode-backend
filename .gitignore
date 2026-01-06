@@ -3,3 +3,6 @@ uploads/*.csv
 
 # Ignore barcode previews
 previews/*.png
+
+# Ignore python cache
+__pycache__/
